@@ -1,0 +1,1192 @@
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.exe
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.AssemblyInfoInputs.cache
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.AssemblyInfo.cs
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorTargetAssemblyInfo.cache
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/staticwebassets/FinalAPICode.StaticWebAssets.Manifest.cache
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/staticwebassets/FinalAPICode.StaticWebAssets.xml
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.csproj.CopyComplete
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.deps.json
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.runtimeconfig.json
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.runtimeconfig.dev.json
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.pdb
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Antiforgery.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Core.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Authorization.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Forms.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Server.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Web.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.CookiePolicy.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cors.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HostFiltering.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Extensions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Features.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpOverrides.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Identity.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.Routing.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Metadata.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Core.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCompression.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Rewrite.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IIS.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Session.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Common.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Core.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.StaticFiles.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebSockets.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebUtilities.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.CSharp.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Memory.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Binder.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Ini.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Json.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Xml.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.DependencyInjection.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Composite.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Physical.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Http.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Core.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Stores.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Configuration.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Console.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Debug.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventLog.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventSource.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.TraceSource.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.ObjectPool.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Primitives.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.WebEncoders.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.JSInterop.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Net.Http.Headers.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.Core.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Primitives.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Registry.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/mscorlib.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/netstandard.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.AppContext.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Buffers.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.Concurrent.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.Immutable.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.NonGeneric.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.Specialized.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Annotations.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.DataAnnotations.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.EventBasedAsync.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Primitives.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.TypeConverter.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Configuration.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Console.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Core.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Data.Common.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Data.DataSetExtensions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Data.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Contracts.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Debug.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.DiagnosticSource.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.EventLog.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.FileVersionInfo.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Process.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.StackTrace.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TextWriterTraceListener.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tools.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TraceSource.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tracing.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Drawing.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Drawing.Primitives.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Dynamic.Runtime.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Globalization.Calendars.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Globalization.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Globalization.Extensions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.Brotli.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.FileSystem.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.ZipFile.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.DriveInfo.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Primitives.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Watcher.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.IsolatedStorage.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.MemoryMappedFiles.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Pipelines.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Pipes.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.UnmanagedMemoryStream.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Linq.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Linq.Expressions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Linq.Parallel.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Linq.Queryable.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Memory.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Http.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.HttpListener.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Mail.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.NameResolution.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.NetworkInformation.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Ping.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Primitives.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Requests.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Security.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.ServicePoint.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Sockets.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebClient.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebHeaderCollection.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebProxy.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.Client.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Numerics.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Numerics.Vectors.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ObjectModel.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.DispatchProxy.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.ILGeneration.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.Lightweight.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Extensions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Metadata.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Primitives.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.TypeExtensions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Resources.Reader.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Resources.ResourceManager.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Resources.Writer.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.Unsafe.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.VisualC.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Extensions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Handles.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.WindowsRuntime.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Intrinsics.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Loader.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Numerics.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Formatters.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Json.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Primitives.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Xml.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.AccessControl.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Claims.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Algorithms.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Cng.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Csp.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Encoding.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Primitives.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.X509Certificates.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Xml.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Permissions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.Windows.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.SecureString.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ServiceModel.Web.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ServiceProcess.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.CodePages.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.Extensions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.Encodings.Web.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.RegularExpressions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Channels.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Overlapped.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Dataflow.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Extensions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Parallel.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Thread.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.ThreadPool.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Timer.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Transactions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Transactions.Local.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ValueTuple.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Web.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Web.HttpUtility.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Windows.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Windows.Extensions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.Linq.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.ReaderWriter.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.Serialization.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XDocument.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlDocument.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlSerializer.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.XDocument.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/refs/WindowsBase.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.dll
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.pdb
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.genruntimeconfig.cache
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.csproj.CoreCompileInputs.cache
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.MvcApplicationPartsAssemblyInfo.cs
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.MvcApplicationPartsAssemblyInfo.cache
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.Views.dll
+D:/Test work/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.Views.pdb
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorAssemblyInfo.cache
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorAssemblyInfo.cs
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.TagHelpers.input.cache
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.TagHelpers.output.cache
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorCoreGenerate.cache
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorTargetAssemblyInfo.cs
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.Views.pdb
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.csprojAssemblyReference.cache
+D:/Test work/FinalAPICode/obj/Debug/netcoreapp3.1/Razor/Views/Home/Secret.cshtml.g.cs
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.deps.json
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.runtimeconfig.json
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.runtimeconfig.dev.json
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.pdb
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cors.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Identity.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Session.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.CSharp.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Http.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.JSInterop.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Net.Http.Headers.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Registry.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/mscorlib.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/netstandard.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.AppContext.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Buffers.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.Concurrent.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.Immutable.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.NonGeneric.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.Specialized.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Annotations.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.DataAnnotations.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.TypeConverter.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Configuration.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Console.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Data.Common.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Data.DataSetExtensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Data.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Contracts.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Debug.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.EventLog.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Process.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.StackTrace.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tools.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TraceSource.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tracing.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Drawing.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Drawing.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Dynamic.Runtime.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Globalization.Calendars.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Globalization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Globalization.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.Brotli.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.FileSystem.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.ZipFile.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Watcher.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.IsolatedStorage.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.MemoryMappedFiles.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Pipelines.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Pipes.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Linq.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Linq.Expressions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Linq.Parallel.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Linq.Queryable.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Memory.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Http.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.HttpListener.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Mail.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.NameResolution.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.NetworkInformation.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Ping.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Requests.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Security.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.ServicePoint.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Sockets.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebClient.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebHeaderCollection.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebProxy.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.Client.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Numerics.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Numerics.Vectors.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ObjectModel.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.DispatchProxy.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.Lightweight.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Metadata.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.TypeExtensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Resources.Reader.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Resources.ResourceManager.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Resources.Writer.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Handles.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Intrinsics.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Loader.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Numerics.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Formatters.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Json.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Xml.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.AccessControl.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Claims.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Algorithms.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Cng.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Csp.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Encoding.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Xml.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Permissions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.Windows.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.SecureString.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ServiceModel.Web.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ServiceProcess.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.CodePages.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.Encodings.Web.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.RegularExpressions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Channels.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Overlapped.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Dataflow.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Parallel.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Thread.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.ThreadPool.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Timer.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Transactions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Transactions.Local.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ValueTuple.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Web.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Web.HttpUtility.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Windows.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Windows.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.Linq.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.ReaderWriter.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.Serialization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XDocument.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlDocument.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlSerializer.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.XDocument.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/refs/WindowsBase.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.Views.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.Views.pdb
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.csprojAssemblyReference.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.AssemblyInfoInputs.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.AssemblyInfo.cs
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.csproj.CoreCompileInputs.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.MvcApplicationPartsAssemblyInfo.cs
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.MvcApplicationPartsAssemblyInfo.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorAssemblyInfo.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorAssemblyInfo.cs
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.TagHelpers.input.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.TagHelpers.output.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorCoreGenerate.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/Razor/Views/Home/Secret.cshtml.g.cs
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorTargetAssemblyInfo.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorTargetAssemblyInfo.cs
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.Views.pdb
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.csproj.CopyComplete
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/staticwebassets/FinalAPICode.StaticWebAssets.Manifest.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/staticwebassets/FinalAPICode.StaticWebAssets.xml
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.pdb
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.genruntimeconfig.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.deps.json
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.runtimeconfig.json
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.runtimeconfig.dev.json
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.pdb
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cors.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Identity.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Session.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.CSharp.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Http.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.JSInterop.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Net.Http.Headers.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Registry.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/mscorlib.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/netstandard.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.AppContext.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Buffers.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.Concurrent.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.Immutable.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.NonGeneric.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Collections.Specialized.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Annotations.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.DataAnnotations.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.TypeConverter.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Configuration.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Console.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Data.Common.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Data.DataSetExtensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Data.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Contracts.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Debug.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.EventLog.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Process.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.StackTrace.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tools.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TraceSource.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tracing.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Drawing.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Drawing.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Dynamic.Runtime.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Globalization.Calendars.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Globalization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Globalization.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.Brotli.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.FileSystem.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.ZipFile.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Watcher.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.IsolatedStorage.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.MemoryMappedFiles.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Pipelines.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.Pipes.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Linq.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Linq.Expressions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Linq.Parallel.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Linq.Queryable.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Memory.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Http.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.HttpListener.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Mail.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.NameResolution.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.NetworkInformation.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Ping.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Requests.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Security.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.ServicePoint.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.Sockets.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebClient.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebHeaderCollection.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebProxy.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.Client.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Numerics.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Numerics.Vectors.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ObjectModel.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.DispatchProxy.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.Lightweight.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Metadata.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Reflection.TypeExtensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Resources.Reader.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Resources.ResourceManager.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Resources.Writer.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Handles.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Intrinsics.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Loader.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Numerics.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Formatters.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Json.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Xml.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.AccessControl.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Claims.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Algorithms.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Cng.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Csp.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Encoding.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Primitives.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Xml.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Permissions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.Windows.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Security.SecureString.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ServiceModel.Web.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ServiceProcess.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.CodePages.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.Encodings.Web.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Text.RegularExpressions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Channels.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Overlapped.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Dataflow.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Parallel.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Thread.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.ThreadPool.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Threading.Timer.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Transactions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Transactions.Local.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.ValueTuple.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Web.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Web.HttpUtility.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Windows.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Windows.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.Linq.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.ReaderWriter.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.Serialization.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XDocument.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlDocument.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlSerializer.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.XDocument.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/refs/WindowsBase.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.Views.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/FinalAPICode.Views.pdb
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.csprojAssemblyReference.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.AssemblyInfoInputs.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.AssemblyInfo.cs
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.csproj.CoreCompileInputs.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.MvcApplicationPartsAssemblyInfo.cs
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.MvcApplicationPartsAssemblyInfo.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorAssemblyInfo.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorAssemblyInfo.cs
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.TagHelpers.input.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.TagHelpers.output.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorCoreGenerate.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/Razor/Views/Home/Secret.cshtml.g.cs
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorTargetAssemblyInfo.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.RazorTargetAssemblyInfo.cs
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.Views.pdb
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.csproj.CopyComplete
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/staticwebassets/FinalAPICode.StaticWebAssets.Manifest.cache
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/staticwebassets/FinalAPICode.StaticWebAssets.xml
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.dll
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.pdb
+/Users/lovekumar/Documents/Study/BDAT 1001 - Information and Encoding Standards/Final Project/Authentication/FinalAPICode/obj/Debug/netcoreapp3.1/FinalAPICode.genruntimeconfig.cache

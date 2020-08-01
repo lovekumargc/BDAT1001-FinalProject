@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{666B2162-6D28-4F1D-9178-82ADFEA69DF3}|Default">
+  <MonoDevelop.Ide.ItemProperties.oauth.Api FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.oauth.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FinalAPICode/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="FinalAPICode/Controllers/HomeController.cs" Line="107" Column="39" />
+      <File FileName="FinalAPICode/Startup.cs" Line="41" Column="47" />
+      <File FileName="FinalAPICode/Item.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Authentication" expanded="True">
+            <Node name="oauth" expanded="True">
+              <Node name="Api" expanded="True">
+                <Node name="AuthRequirement" expanded="True" />
+                <Node name="Controllers" expanded="True" />
+              </Node>
+              <Node name="Client" expanded="True" />
+            </Node>
+            <Node name="FinalAPICode" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FinalAPICode PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.ItemProperties.oauth.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.basic.Basics PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{755294D1-6EBD-4482-BBC6-AAD99FA9E87F}" ItemName="Api" ConfigurationId="Default" />
+        <StartupItem ItemId="{A026B63D-D285-4F91-8477-F3C12DF0D66F}" ItemName="Client" ConfigurationId="Default" />
+        <StartupItem ItemId="{55A68F97-BFB8-4AD9-8E55-F6EE4B622B83}" ItemName="Server" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{755294D1-6EBD-4482-BBC6-AAD99FA9E87F}" ItemName="Api" ConfigurationId="Default" />
+        <StartupItem ItemId="{A026B63D-D285-4F91-8477-F3C12DF0D66F}" ItemName="Client" ConfigurationId="Default" />
+        <StartupItem ItemId="{55A68F97-BFB8-4AD9-8E55-F6EE4B622B83}" ItemName="Server" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
